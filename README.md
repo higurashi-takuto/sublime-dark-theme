@@ -2,7 +2,12 @@
 Sublime Text向けのダークテーマです。
 
 ## AdaptiveDark.sublime-theme
-Sublime Textに初めから入っている`Adaptive.sublime-theme`を元に、よりモダンでダークにしたテーマです。
+
+**Sublime Text Build 4107 以降でアイコンが正常に表示されません。**
+
+**デフォルトの `Adaptive.sublime-theme` の使用をおすすめします。**
+
+Sublime Textに初めから入っている `Adaptive.sublime-theme` を元に、よりモダンでダークにしたテーマです。
 
 ## MonokaiDark.sublime-color-scheme
 Sublime Textに初めから入っている`Monokai.sublime-color-scheme`を元に、背景をよりダークにしたカラースキームです。
